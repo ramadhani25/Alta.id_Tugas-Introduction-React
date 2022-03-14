@@ -8,7 +8,7 @@ const Contact_us = () => {
     <div>
       <div className="container-fluid">
         <div className="row d-flex align-items-center ">
-          <div className="col form-img">
+          <div className="col-md-4 form-img">
             <div className="kotak w-100 text-center">
               <img className="alta" alt="alta" src={alta} />
             </div>
